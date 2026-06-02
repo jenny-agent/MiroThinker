@@ -3,7 +3,7 @@
 </div>
 
 <br>
-
+ddd
 <div align="center">
 
 [![MODEL](https://img.shields.io/badge/Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/collections/miromind-ai/mirothinker-17)
